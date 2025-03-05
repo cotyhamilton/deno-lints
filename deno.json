@@ -1,5 +1,5 @@
 {
-  "name": "@cotyhamilton/lints",
+  "name": "@cotyhamilton/deno-lints",
   "version": "0.1.0",
   "exports": "./mod.ts",
   "tasks": {
